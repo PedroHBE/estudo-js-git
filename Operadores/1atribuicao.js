@@ -24,3 +24,5 @@ let w = "texto"
 
 w += " atribuido com mais informações"
 console.log (w)
+
+// Apenas testando MERGE
